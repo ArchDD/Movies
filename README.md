@@ -42,4 +42,4 @@ This project was created as part of Udacity's nanodegree program. Visit Udacity 
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2015 Twitter, Inc. Code released under [the MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
+The code released was created for educational purposes, copyright and license subject to Udacity's provided source code - no other enforcements otherwise.
