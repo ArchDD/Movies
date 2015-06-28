@@ -30,7 +30,12 @@ Movie/
 +-- README.md
 ```
 
-Opening fresh_tomatoes.html will show the movie trailers website.
+## Setup Instructions
+1. Open IDLE (Python GUI)
+2. Open the entertainment_centre.py file
+3. On the Run tab select "Run Module"
+
+The movie website will then be opened on a browser.
 
 ## Creators
 
